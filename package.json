@@ -1,0 +1,20 @@
+{
+  "name": "jw",
+  "version": "1.0.0",
+  "description": "a command line app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jw"
+  ],
+  "bin": {
+    "jw": "bin/jw.js"
+  },
+  "author": "jw",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
